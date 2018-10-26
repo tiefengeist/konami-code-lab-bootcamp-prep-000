@@ -11,5 +11,5 @@ const codes = [
   "a"
 ];
 function init() {
-  
+  document.
 }
