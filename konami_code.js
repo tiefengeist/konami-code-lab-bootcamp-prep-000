@@ -24,9 +24,9 @@ function init() {
     index = 0;
     alert('Good Job, bucko.');
    }
-  }else {
+  } else {
     index = 0;
       }
-    }
-  });
+    });
+  }
 }
