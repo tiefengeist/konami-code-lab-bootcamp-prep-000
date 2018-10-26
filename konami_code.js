@@ -12,7 +12,7 @@ const codes = [
 ];
 var index = 0;
 
-function init() {
+function init()  {
   document.body.addEventListener('keydown', function (e) {
     
   function onKeyDown(e) {
@@ -29,4 +29,4 @@ function init() {
       }
     });
   }
-}
+  }
