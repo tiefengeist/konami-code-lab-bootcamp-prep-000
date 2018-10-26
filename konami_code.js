@@ -14,7 +14,6 @@ const codes = [
 var index = 0; //global variable
 	function init() {
  document.body.addEventListener ('keydown', function(e) {
- function onKeyDownHandler(e) {
   var key = e.key;
        // check if key is equal to current value of index in code array
       // then loop through the array if conditions match
@@ -32,6 +31,5 @@ var index = 0; //global variable
     } else {
       index = 0;
     }
-  }
 }
 )}
