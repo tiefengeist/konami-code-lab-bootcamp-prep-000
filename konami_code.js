@@ -12,6 +12,7 @@ const codes = [
 ];
 function init() {
   document.body.addEventListener('keydown', e);
+  function onKeyDown(e){
   var key = e.key;
   if (key === codes[index]) {
     index ++;
@@ -21,5 +22,6 @@ function init() {
   }
   else {
     index = 0;
+    }
   }
 }
