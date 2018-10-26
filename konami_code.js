@@ -21,7 +21,7 @@ var index = 0; //global variable
         // if yes, increment index by 1
         index++;
          // if still in the loop, check if index is equal to code array length
-      if (index === codes.length - 1) {
+      if (index === codes.length ) {
           // reset the index counter
           index = 0;
           // if yes, you passed, congrats!
