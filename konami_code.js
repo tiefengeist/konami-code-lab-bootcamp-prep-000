@@ -16,5 +16,10 @@ function init() {
   if (key === codes[index]) {
     index ++;
   }
-  if (key === )
+  if (index === codes.length - 1) {
+    alert('Good Job, bucko.');
+  }
+  else {
+    index = 0;
+  }
 }
