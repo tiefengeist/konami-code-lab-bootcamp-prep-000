@@ -19,7 +19,7 @@ function init() {
   var key = e.key;
   if (key === codes[index]) {
     index ++;
-  }
+  
   if (index === codes.length - 1) {
     alert('Good Job, bucko.');
   }
