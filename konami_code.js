@@ -21,6 +21,7 @@ function init() {
     index ++;
   
   if (index === codes.length - 1) {
+    index = 0;
     alert('Good Job, bucko.');
   }
   else {
