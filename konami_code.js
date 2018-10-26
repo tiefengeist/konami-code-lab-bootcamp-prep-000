@@ -33,5 +33,5 @@ var index = 0; //global variable
       index = 0;
     }
   }
-})
 }
+)}
