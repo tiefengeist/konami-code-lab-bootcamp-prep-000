@@ -32,6 +32,6 @@ var index = 0; //global variable
     } else {
       index = 0;
     }
-  });
+  }
 }
-}	}
+)}
