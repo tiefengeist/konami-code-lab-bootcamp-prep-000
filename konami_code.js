@@ -34,4 +34,4 @@ var index = 0; //global variable
     }
   });
 }
-}	
+}	}
